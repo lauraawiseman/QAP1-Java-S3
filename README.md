@@ -17,6 +17,9 @@ Semester: Third
 - TestDate.java - Tests the Date class, ensuring correct formatting and updates.
 - TestTime.java - Tests the Time class, validating time-setting and retrieval methods.
 
+### Documents:
+- A word document that contains feedback questions and screenshots of the code output from each file.
+
 ## How to Run:
 
 1. Compile all files.
